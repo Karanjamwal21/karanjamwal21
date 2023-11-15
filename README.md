@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm karan</h1>
-<h3 align="center">....................comming soon</h3><br>
 
 
-[![An image of @karanjamwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanjamwal)](https://holopin.io/@karanjamwal)<br>
 
+<br>
 
+<h1>Holopin Profile</h1>
+
+[![An image of @karanjamwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanjamwal)](https://holopin.io/@karanjamwal)<br><br>
+
+<hr>
+<div id="header" align="center">
+
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhNmQxaG1qcHZjcXkxempldW84NjdkMmkycTVoZW9tem00OHg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300" />
+</div>
+<br>
+<hr>
 
 
 
