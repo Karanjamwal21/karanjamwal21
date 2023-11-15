@@ -2,6 +2,10 @@
 <h3 align="center">....................comming soon</h3>
 
 
+[![An image of @karanjamwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanjamwal)](https://holopin.io/@karanjamwal)
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanjamwal21&label=Profile%20views&color=0e75b6&style=flat" alt="karanjamwal21" /> </p>
