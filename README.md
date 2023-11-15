@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm karan</h1>
-<h3 align="center">....................comming soon</h3>
+<h3 align="center">....................comming soon</h3><br>
 
 
-[![An image of @karanjamwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanjamwal)](https://holopin.io/@karanjamwal)
+[![An image of @karanjamwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanjamwal)](https://holopin.io/@karanjamwal)<br>
 
 
 
