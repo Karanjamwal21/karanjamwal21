@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm karan</h1>
 
 
+<p align="center">
+<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hello...;it's+me+karan+jamwal;3rd+year+student...;java+enthusiast...;learning+to+work+in+open-source" alt="Typing SVG" /></a>
+</p>
 
-<br>
 
 <h1>Holopin Profile</h1>
 
